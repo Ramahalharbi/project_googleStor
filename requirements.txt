@@ -6,3 +6,4 @@ plotly
 streamlit
 scikit-learn
 scipy
+python-3.11
